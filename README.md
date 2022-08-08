@@ -19,4 +19,5 @@
  <p align="center">
   <img src="/images/s1.png" width="350" title="hover text" alt="s1">
   <img src="/images/s2.png" width="350" title="hover text" alt="s2">
+   <img src="/images/s3.png" width="350" title="hover text" alt="s3">
  </p>
