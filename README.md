@@ -9,7 +9,7 @@
   <li>Zoom-In, Zoom-Out, Timer and filters.</li>
   <li>Added animations using <b>Js</b></li>
   <li>Gallery is also there to store all the images and videos you captured.</li>
-  <li>Link <a href="https://candy-6646.github.io/Camera/">Camera</a></li>
+  <li>Link <a href="https://kundan-6646.github.io/Camera/">Camera</a></li>
   <li>Images have been captured with the help of <b>Canvas</b>.</li>
  </ul>
 
