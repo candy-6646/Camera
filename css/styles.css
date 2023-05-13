@@ -54,7 +54,7 @@ body {
 
 
 .video-container {
-	height: 100%;
+	height: 70%;
 	width: 100%;
 	overflow: hidden;
 	display: flex;
